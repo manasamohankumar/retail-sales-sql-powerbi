@@ -59,12 +59,13 @@ The raw dataset contained several inconsistencies which were handled using SQL:
 ## Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
+📁 Power BI file available in `/powerbi` folder (download to explore interactively)
 
 ## Business Value
 
 This dashboard enables stakeholders to:
 
-- Identify high-performing products
+- Identify high-performing products to optimise inventory and sales strategy
 - Understand customer purchasing patterns
 - Monitor revenue trends over time
 - Support data-driven decision making
