@@ -1,4 +1,4 @@
-# Retail Sales & Customer Insights Dashboard (SQL + Power BI)
+# Retail Sales Analysis Project (SQL + Power BI)
 
 ## Project Overview
 This project analyses retail transaction data to uncover key business insights related to product performance, customer behaviour, and revenue trends. The analysis was performed using SQL for data cleaning and transformation, and Power BI for dashboard development and visualisation.
